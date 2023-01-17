@@ -1,4 +1,5 @@
 # About Me
+![visitors](https://visitor-badge.glitch.me/badge?page_id=h3mmy&left_color=green&right_color=red)
 
 @h3mmy 🟨⬜️🟪⬛️
 
